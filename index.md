@@ -1,3 +1,6 @@
+---
+layout: base
+---
 # Dekorate
 
 ![dekorate logo](logo.png "Dekorate") 
@@ -14,6 +17,6 @@ And the best part is that its language and build tool independant!
 
 ## Want to learn more?
 
-- [Getting Started](https://dekorate.io/getting-started)
-- [Docs](https://dekorate.io/dekorate)
+- [Getting Started](getting-started)
+- [Docs](dekorate)
 - [Sources](https://github.com/dekorateio/dekorate)

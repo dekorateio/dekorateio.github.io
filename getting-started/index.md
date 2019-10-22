@@ -1,3 +1,6 @@
+---
+layout: base
+---
 # Getting Started
 
 ## Using Spring Boot
