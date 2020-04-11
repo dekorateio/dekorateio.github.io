@@ -23,7 +23,7 @@ or if your prefer to do it in a single step, right after the build:
 
     mvn clean package -Ddekorate.deploy=true
     
-This assume that an image for your application is already availalbe if not check [building and deployg](#building-and-deployng) section.
+This assume that an image for your application is already availalbe if not check [building and deploying](#building-and-deploying) section.
 
 ### Dekorating the manifests
 
