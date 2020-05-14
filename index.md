@@ -1,8 +1,6 @@
 ---
 layout: base
 ---
-# Dekorate
-
 ![dekorate logo](logo.png "Dekorate") 
 
 Dekorate is a collection of compile time generators and decorators of Kubernetes manifests.
