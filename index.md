@@ -14,8 +14,8 @@ And the best part is that its language and build tool independant!
 
 ### Features
 - Generates manifest via annotation processing
-  - [Kubernetes](kubernetes/index.md){:target="_blank"}
-  - [OpenShift](openshift/index.md){:target="_blank"}
+  - [Kubernetes](dekorate/site/kubernetes/index.md){:target="_blank"}
+  - [OpenShift](dekorate/site/openshift/index.md){:target="_blank"}
   - Knative
   - Tekton
 - Rich framework integration
@@ -36,6 +36,6 @@ It's always helps to see something in action before you dive into the docs:
 
 ### Want to learn more?
 
-- [Getting Started](getting-started)
+- [Getting Started](dekorate/site/getting-started)
 - [Docs](dekorate){:target="_blank"}
 - [Sources](https://github.com/dekorateio/dekorate){:target="_blank"}
