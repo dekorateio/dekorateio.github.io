@@ -22,7 +22,7 @@ And the best part is that its language and build tool independant!
   - Generic Java 
   - Spring Boot
   - Quarkus
-  - Throntail
+  - Thorntail
 - junit5 integration testing extension
   - Kubernetes
   - Openshift
