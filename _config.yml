@@ -4,7 +4,7 @@ url: "https://dekorate.io" # the base hostname & protocol for your site, e.g. ht
 twitter_username: dekorateio <200f>
 github_username:  dekorateio
 github_fork_url: "https://github.com/dekorateio/dekorate"
-docsurl: "/dekorate"
+#docsurl: "/dekorate"
 plugins:
   - jekyll-remote-theme
 remote_theme: https://github.com/rhmwes/community-theme
